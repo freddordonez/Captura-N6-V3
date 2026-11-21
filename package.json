@@ -1,0 +1,15 @@
+{
+  "name": "captura-south-n6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Captura de datos de la estaci\u00f3n total South N6+ por Bluetooth",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.2",
+    "@e-is/capacitor-bluetooth-serial": "^6.0.3",
+    "@capacitor/app": "^6.0.1"
+  }
+}

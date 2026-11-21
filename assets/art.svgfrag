@@ -1,0 +1,28 @@
+<!-- Estación total sobre trípode, con insignia Bluetooth -->
+<g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+  <!-- trípode -->
+  <path d="M256 330 L168 438" stroke-width="13"/>
+  <path d="M256 330 L344 438" stroke-width="13"/>
+  <path d="M256 330 L256 444" stroke-width="13"/>
+</g>
+<!-- base nivelante -->
+<rect x="222" y="312" width="68" height="18" rx="6" fill="#ffffff"/>
+<!-- cuerpo / alidada -->
+<rect x="204" y="244" width="104" height="72" rx="16" fill="#ffffff"/>
+<!-- soportes (horquilla) -->
+<rect x="204" y="176" width="26" height="86" rx="10" fill="#ffffff"/>
+<rect x="282" y="176" width="26" height="86" rx="10" fill="#ffffff"/>
+<!-- anteojo -->
+<rect x="146" y="196" width="196" height="42" rx="21" fill="#bff0dc"/>
+<circle cx="168" cy="217" r="14" fill="#0a3d2e"/>
+<circle cx="168" cy="217" r="5.5" fill="#bff0dc"/>
+<rect x="304" y="204" width="28" height="26" rx="8" fill="#0a3d2e" opacity=".35"/>
+<!-- eje de muñones -->
+<circle cx="217" cy="217" r="9" fill="#0a3d2e"/>
+<circle cx="295" cy="217" r="9" fill="#0a3d2e"/>
+<!-- pantalla en el cuerpo -->
+<rect x="224" y="262" width="64" height="30" rx="7" fill="#0a3d2e"/>
+<path d="M234 282 l10 -10 l8 6 l14 -12" fill="none" stroke="#4cc79a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- insignia Bluetooth -->
+<circle cx="388" cy="124" r="56" fill="#2f6fe0" stroke="#ffffff" stroke-width="9"/>
+<path d="M372 103 L403 134 L388 150 L388 98 L403 114 L372 145" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
